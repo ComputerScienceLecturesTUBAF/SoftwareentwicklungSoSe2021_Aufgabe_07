@@ -1,10 +1,10 @@
-# Softwareentwicklung SoSe2022 - Aufgabe 07
+# Softwareentwicklung SoSe2023 - Aufgabe 07
 
 Mit dem Aufgabenblatt sollen Ihre Fähigkeiten des objektorientierten Entwurf weiter trainiert werden. Thematisiert wird außerdem das Testen der Entwurf realisiernden  Implementierung.
 
 ## Bearbeitungzeit
 
-SWE: 20.6.- 1.7. 2022 (Mm, BWM, ROB, BAI, BGIP, BBWL, BBL, MGIN)
+SWE: 19.6.- 30.6.2023 (Mm, BWM, ROB, BAI, BGIP, BBWL, BBL, MGIN)
 
 
 ## Entwicklung einer Mobilfunkinfrastruktur
@@ -42,8 +42,8 @@ Ein erfolgreicher Service - Anruf, Textnachricht, Alarmklingeln, Positionsabfrag
 
 Der Konfigurationssimulator:
 
-+ soll die Datei [SmartPhoneData](https://github.com/ComputerScienceLecturesTUBAF/SoftwareentwicklungSoSe2021_Aufgabe_07/blob/main/SmartPhoneData.csv), die die Daten für die verfügbaren Geräte enthält, lesen und die Liste der Geräte-Instanzen erstellen.   
-+ Weiterhin erhält der Kommunikationskoordinator eine Liste der Tests, die ebenfalls in einer Datei zur Verfügung gestellt werden ([ServicesTests.csv](https://github.com/ComputerScienceLecturesTUBAF/SoftwareentwicklungSoSe2021_Aufgabe_07/blob/main/ServicesTests.csv)).
++ soll die Datei [SmartPhoneData](https://github.com/ComputerScienceLecturesTUBAF/SoftwareentwicklungSoSe2023_Aufgabe_07/blob/main/SmartPhoneData.csv), die die Daten für die verfügbaren Geräte enthält, lesen und die Liste der Geräte-Instanzen erstellen.   
++ Weiterhin erhält der Kommunikationskoordinator eine Liste der Tests, die ebenfalls in einer Datei zur Verfügung gestellt werden ([ServicesTests.csv](https://github.com/ComputerScienceLecturesTUBAF/SoftwareentwicklungSoSe2023_Aufgabe_07/blob/main/ServicesTests.csv)).
 + Kommunikationskoordinator testet die Serviceanforderungen, in dem er die in den Tests genannten Methoden in speziellen Testmethoden aufruft. Dabei wird überprüft, ob die entsprechenden Rahmenbedigungen erfüllt sind. Die Ergebnisse des Testens werden in der weiteren Datei (Ergebnis.csv) protokolliert.
 
 ```
